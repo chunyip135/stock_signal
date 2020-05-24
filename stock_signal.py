@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 16 23:00:27 2020
-
-@author: samuelwong
-"""
-
-
 import pandas as pd
 import numpy as np
 import plotnine as p9
